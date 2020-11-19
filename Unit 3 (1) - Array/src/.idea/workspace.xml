@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f0857a9-ce27-4d73-b8e1-a20c98dd4302" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/EnglishTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/EnglishTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/ExamPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/ExamPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/FushiSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/FushiSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/ProfessionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/ProfessionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/StudentCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/StudentCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/TestDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/TestDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/TestItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/TestItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/EnglishTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/EnglishTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/ExamPaper.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/ExamPaper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/FushiSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/FushiSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/MathTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/MathTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/ProfessionalTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/ProfessionalTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/Student.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/Student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/StudentCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/StudentCatalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/TestDatabase.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/TestDatabase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/TestItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/TestItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/fushiSystem/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/script-dir/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/system-properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 2 - fushiSystem/doc/system-properties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 3 (2) - fushiSystemStrategy/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kWLc4Y8IjHwxHMVPqEVKolyM7r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0857a9-ce27-4d73-b8e1-a20c98dd4302" name="Default Changelist" comment="" />
+      <created>1605811478607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605811478607</updated>
+      <workItem from="1605811480468" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -89,16 +89,16 @@ private ProfessionalTest readProfessionalTest(String line)
     - 如果行类型是 `ProfessionalTest`，则调用方法 `readProfessionalTest`。
 
     处理完该行后，`loadTestDatabase` 将试题添加到试题库中。此方法可能引发以下异常：
-        - `FileNotFoundException` — 如果指定的文件不存在。
-        - `IOException` — 如果读取指定文件中的信息时出错。
-        - `DataFormatException` — 如果文件中的某行有错误（异常应包含格式错误的数据行）。
+    - `FileNotFoundException` — 如果指定的文件不存在。
+    - `IOException` — 如果读取指定文件中的信息时出错。
+    - `DataFormatException` — 如果文件中的某行有错误（异常应包含格式错误的数据行）。
         
-        ```java
+     ```java
         public TestDatabase loadTestDatabase (String filename)
             throws FileNotFoundException, 
             IOException,
             DataFormatException
-        ```
+    ```
 
 
 #### 类 `FushiSystem`
